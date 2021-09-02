@@ -222,4 +222,7 @@
     .main-banner{
         text-align: center;
     }
+    .clients{
+        flex-direction: column;
+    }
   }
